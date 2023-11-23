@@ -1,0 +1,57 @@
+.box{
+    text-align: center;
+    margin-top: 200px   ;
+    
+    }
+    
+    .bg-gray {
+    
+    background-color: gray;
+    margin: auto;
+    text-align: center;
+    
+    }
+     
+    .box1{
+    
+    background: #45d9ca;
+    float: left;    
+    text-align: center;
+    width: 500px;
+    height: 127px;
+    
+    }
+    
+    
+    
+    .box2{
+    
+    background: #26baab;
+    float: left;
+    text-align: center;
+    width: 500px;
+    height: 127px;
+    text-align: center;
+    
+    
+    }
+    
+    .box3{
+    
+    background: #99eae2;
+    float: left;
+    width: 479px;
+    text-align: center;
+    
+    
+    }
+    
+    footer{
+    
+    text-align: center;
+    font-size: small;
+    
+    
+    }
+    
+    
